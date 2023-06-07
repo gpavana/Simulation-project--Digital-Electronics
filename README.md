@@ -1,4 +1,5 @@
-# TITTLE
+### Simulation-project--Digital-Electronics
+# TITLE
 Design and simulate mod 3 synchronous counter with JK flip flop using Verilog.
 
 # THEORY
