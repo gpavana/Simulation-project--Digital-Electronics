@@ -33,6 +33,9 @@ module syncc(clk,reset,count);
   end
 
 endmodule
+Developed by
+NAME:G PAVANA
+REGISTER NO:212222230105
 ```
 ### TIMING DIAGRAM:
 ![Simulation-project--Digital-Electronics](syncc.png)
